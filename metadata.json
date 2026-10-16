@@ -1,0 +1,6 @@
+{
+  "name": "SereneSound - 落ち着く音楽 & アンビエントスタジオ",
+  "description": "心地よいリラクゼーション、睡眠、集中、瞑想のためのプロシージャル・ヒーリング音楽ジェネレーター＆アンビエントスタジオ。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
